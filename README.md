@@ -14,6 +14,7 @@ $ pwd
 ### 在改目录下输入如下命令
 ```
 $ git init
+```
 Initialized empty Git repository in /<your path>/learngit/.git
 
 ## 增加README.txt文件

@@ -43,10 +43,11 @@ $ git commit -m 'the commit you want add'
 
 2. 第二步是用git commit提交更改，实际上就是把暂存区的所有内容提交到当前分支。
 
-# 管理修改
+## 管理修改
 
 为什么Git比其他版本控制系统设计得优秀，因为Git跟踪并管理的是修改，而非文件。
 ```
 git status
 ```
+## 测销修gai
 

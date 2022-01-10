@@ -46,3 +46,7 @@ $ git commit -m 'the commit you want add'
 # 管理修改
 
 为什么Git比其他版本控制系统设计得优秀，因为Git跟踪并管理的是修改，而非文件。
+```
+git status
+```
+
